@@ -34,7 +34,7 @@ export default function HeaderBar() {
       borderBottomWidth="1px"
       borderBottomColor={borderColor}
     >
-      <a href="http://swc.rs" target="_blank" rel="noopener noreferrer">
+      <a href="https://speedy-web-compiler.vercel.app/" target="_blank" rel="noopener noreferrer">
         <Image src="/swc.svg" alt="swc" width="120" height="43" />
       </a>
       <HStack spacing="4">

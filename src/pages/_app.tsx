@@ -6,7 +6,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <ChakraProvider>
       <Head>
-        <title>SWC Playground</title>
+        <title>Speedy Web Compiler</title>
         <link rel="shortcut icon" type="image/svg" href="/swc.svg" />
       </Head>
       <Component {...pageProps} />
